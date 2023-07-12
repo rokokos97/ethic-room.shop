@@ -2,7 +2,9 @@ const SearchLine = () => {
   return (
     <>
       <div>
-        <input/>
+          <input
+              placeholder='Search'
+          />
       </div>
     </>
   )

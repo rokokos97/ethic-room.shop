@@ -1,4 +1,6 @@
-import SearchLine from "./searchLine";
+import SearchLine from "./searchLine/searchLine";
+import Navigation from "./navigation/navigation";
+import UserBar from "./userBar/userBar";
 const Header = () => {
     return (
         <>
