@@ -1,3 +1,4 @@
+import SearchLine from "./searchLine";
 const Header = () => {
     return (
         <>
